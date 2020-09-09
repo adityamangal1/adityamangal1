@@ -9,5 +9,16 @@
 <br />
 <br />
 
+
+</details>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c">
+
+</details>
+
+
 [facebook]: https://www.facebook.com/aditya.mangal2/
 [instagram]: https://www.instagram.com/adityamangal/
