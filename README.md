@@ -2,7 +2,7 @@
 
 ## ADITYA MANGAL👋  
 
-![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
+
 
 
 
@@ -15,6 +15,8 @@
 <br />
 <br />
 
+
+![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
 
 
