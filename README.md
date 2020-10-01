@@ -14,6 +14,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
 <br />
 <br />
+<p align="center">
+<!--   <img src="https://mbcdn.sfo2.cdn.digitaloceanspaces.com/logo.png"> -->
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
+  
+<!--   <img src="https://img.shields.io/github/stars/adityamangal1/Pretty-Readme"> -->
+</p>
 
 
 ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
