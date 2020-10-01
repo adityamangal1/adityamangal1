@@ -19,12 +19,12 @@
 <br />
 <br />
 <p align="center">
-<!--   <img src="https://mbcdn.sfo2.cdn.digitaloceanspaces.com/logo.png"> -->
+
   <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
   <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
   
-<!--   <img src="https://img.shields.io/github/stars/adityamangal1/Pretty-Readme"> -->
+
 </p>
 
 
