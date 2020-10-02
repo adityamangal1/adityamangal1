@@ -16,6 +16,7 @@
 - 🔭 Learner ! ⚡ 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 <br />
 <br />
 <p align="center">
@@ -24,6 +25,22 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
   <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
   
+  
+<h2>Languages & Frameworks & Tools</h2>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
+
+  </a>
+  <a href="https://github.com/yezz123">
+  <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
+  </a>
+</p>
+
 
 </p>
 
