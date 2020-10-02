@@ -29,6 +29,8 @@
 <h2>Languages & Frameworks & Tools</h2>
 
 <p align="center">
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
   <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
   </a>
