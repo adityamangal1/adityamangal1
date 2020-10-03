@@ -7,7 +7,7 @@
 
 
 
-- 🔭 Learner ! ⚡ 
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
