@@ -6,18 +6,19 @@
 
 
 
-### Connect with me:
-[<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram].
+
 - 🔭 Learner ! ⚡ 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 <br />
 <br />
-<p align="center">
 
-  <br>
+### Connect with me:
+[<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram].
+<p align="center">
+<br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
   <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
   
