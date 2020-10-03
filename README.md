@@ -14,7 +14,7 @@
 <br />
 <br />
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram].
 <p align="center">
