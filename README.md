@@ -1,8 +1,8 @@
-<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
-## ADITYA MANGAL👋  
+## ADITYA MANGAL<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 <a href="https://twitter.com/AdityaM44382015" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/aditya-mangal-b876041b4/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
+<img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
 
 
 
@@ -54,6 +54,9 @@
 
 [facebook]: https://www.facebook.com/aditya.mangal2/
 [instagram]: https://www.instagram.com/adityamangal/
+
+
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
