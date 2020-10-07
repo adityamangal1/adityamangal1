@@ -1,5 +1,5 @@
 
-## ADITYA MANGAL<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+## ADITYA MANGAL<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://twitter.com/AdityaM44382015" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/aditya-mangal-b876041b4/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 <br />
