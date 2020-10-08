@@ -8,13 +8,13 @@
 
 
 
-- 🌱 I’m currently learning everything 🤣 <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
+- 🌱 I’m currently learning everything 🤣 
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 <br />
 <br />
 
-## Connect with me:
+## Connect with me: <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
 [<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram].
 <p align="center">
