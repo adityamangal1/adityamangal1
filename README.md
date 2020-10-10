@@ -48,13 +48,7 @@
 ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
 
-
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=adityamangal1&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-
-<!-- <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamangal1&layout=compact&title_color=fff&text_color=fff&bg_color=151515" /> -->
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c">
 
 
 [facebook]: https://www.facebook.com/aditya.mangal2/
