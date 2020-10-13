@@ -35,7 +35,7 @@
   <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
 
   </a>
-  <a href="https://github.com/yezz123">
+  <a href="https://github.com/adityamangal1">
   <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
   </a>
 </p>
