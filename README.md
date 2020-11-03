@@ -63,11 +63,11 @@
 
 
 
-
+![119813](https://user-images.githubusercontent.com/69212320/91600995-550a9a80-e982-11ea-9001-f84a7552967e.gif)
 
 <p align="center">
   
-  ![119813](https://user-images.githubusercontent.com/69212320/91600995-550a9a80-e982-11ea-9001-f84a7552967e.gif)
+  
   <br>
   <strong>Happy Coding</strong> ❤️
 </p>
