@@ -66,7 +66,8 @@
 
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
+  
+  ![119813](https://user-images.githubusercontent.com/69212320/91600995-550a9a80-e982-11ea-9001-f84a7552967e.gif)
   <br>
   <strong>Happy Coding</strong> ❤️
 </p>
