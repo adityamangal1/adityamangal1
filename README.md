@@ -1,12 +1,7 @@
-
 ## ADITYA MANGAL<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://twitter.com/AdityaM44382015" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/aditya-mangal-b876041b4/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
-
-
-
-
 
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
@@ -40,11 +35,7 @@
   <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
   </a>
 </p>
-
-
 </p>
-
-
 
 ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
 
@@ -52,22 +43,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ffba2c">
 
-
-
-
-
 [facebook]: https://www.facebook.com/aditya.mangal2/
 [instagram]: https://www.instagram.com/adityamangal/
 [twitter]: https://twitter.com/AdityaM44382015/
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
   
