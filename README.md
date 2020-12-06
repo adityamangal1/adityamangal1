@@ -32,7 +32,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <code><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></code>
 
- </a>
+</a>
   <a href="https://github.com/adityamangal1">
   <code><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></code>
   </a>
