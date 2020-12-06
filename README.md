@@ -22,7 +22,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
   <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
   
- <h2>Languages & Frameworks & Tools</h2>
+<h2>Languages & Frameworks & Tools</h2>
 
 <p align="center">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
