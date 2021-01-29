@@ -48,8 +48,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 [twitter]: https://twitter.com/AdityaM44382015/
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
-  
-<br>
+  <br>
   <strong>Happy Coding</strong> ❤️
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
