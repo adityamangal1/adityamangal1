@@ -46,6 +46,11 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 [facebook]: https://www.facebook.com/aditya.mangal2/
 [instagram]: https://www.instagram.com/adityamangal/
 [twitter]: https://twitter.com/AdityaM44382015/
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
+</p>
+
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
   
@@ -55,9 +60,5 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
-<p align="center">
-<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=adityamangal1&show_icons=true&theme=dracula">
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
-</p>
+
+
