@@ -53,3 +53,11 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <strong>Happy Coding</strong> ❤️
 </p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+<p align="center">
+<img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=adityamangal1&show_icons=true&theme=dracula">
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
+</p>
