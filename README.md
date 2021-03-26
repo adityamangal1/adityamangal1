@@ -1,7 +1,7 @@
 ## ADITYA MANGAL<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <a href="https://twitter.com/AdityaM44382015" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/aditya-mangal-b876041b4/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/OTKgDSt.gif" width="400" height="300" />
+
 
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
@@ -9,7 +9,7 @@
 <br />
 <br />
 
-## Connect with me: <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
+## Connect with me: 
 [<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="adityamangal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
@@ -57,4 +57,8 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <br>
   <strong>Happy Coding</strong> ❤️
 </p>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+![NSHyg](https://user-images.githubusercontent.com/68494604/112663247-9adb0300-8e7e-11eb-816a-cdc8a05e5b2f.gif)
