@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
 
-- 🌱 I’m currently learning everything 🤣 
+
 - 🥅 2020 Goals: Contribute more to Open Source projects⚡
 - 🤔 Looking for help with Data Structures and Algorithms 😭;
 <br />
