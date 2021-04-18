@@ -37,8 +37,8 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   </a>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 
 </p>
