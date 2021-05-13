@@ -4,7 +4,8 @@
 <img align="right" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
 
 - 🤔 Looking for help with Data Structures and Algorithms 😭;
-- 🥅 2021 Goals: Contribute more to Open Source projects⚡
+- 🥅 coding automation projects⚡
+- 🥅 Loved to contribute more to Open Source projects⚡
 
 <br />
 <br />
