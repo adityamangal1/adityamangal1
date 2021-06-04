@@ -14,6 +14,9 @@
 [<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="adityamangal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+<a href="https://dev.to/adityamangal1">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Mangal's DEV Community Profile" height="30" width="30">
+</a>
 
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img
 src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
@@ -65,4 +68,6 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 </p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
 
