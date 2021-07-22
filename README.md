@@ -61,6 +61,9 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 <img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
 </p>
 
+![snake gif](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.gif)
+
+
 <p align="center">
   <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
   
