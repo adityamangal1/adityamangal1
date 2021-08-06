@@ -61,7 +61,8 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 <img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
 </p>
 
-![snake gif](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <p align="center">
