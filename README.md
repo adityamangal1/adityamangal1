@@ -24,7 +24,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 <p align="center">
 <br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adityamangal1.Pretty-Readme">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2021-blueviolet">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
   
   <div align="center">
