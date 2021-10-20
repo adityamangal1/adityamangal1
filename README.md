@@ -52,7 +52,7 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 </p>
 </p>
 
-![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif)
+<!-- ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif) -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&&theme=radical">  
   
