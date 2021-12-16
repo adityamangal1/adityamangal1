@@ -5,7 +5,7 @@
 
 - 🤔 Looking for help with Data Structures and Algorithms 😭
 - 🥅 coding automation projects⚡
-- 🔭 I’m currently working on Open source projects and hackathons⚡
+- 🔭 I’m currently working on Open source projects and hackathons ⚡
 
 <br />
 <br />
