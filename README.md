@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
 
 - 🤔 Looking for help with Data Structures and Algorithms 😭
-- 🥅 coding automation projects⚡
+- 🥅 coding automation projects ⚡
 - 🔭 I’m currently working on Open source projects and hackathons ⚡
 
 <br />
