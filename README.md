@@ -1,18 +1,17 @@
 ## ADITYA MANGAL<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<a href="https://twitter.com/AdityaM44382015" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/aditya-mangal-b876041b4/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://x.com/I_Aditya_/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/adityamangal/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-<img align="right" alt="GIF" src="https://i.stack.imgur.com/NSHyg.gif" width="400" height="300" />
 
-- 🤔 Looking for help with Data Structures and Algorithms 😭
-- 🥅 coding automation projects ⚡
-- 🔭 I’m currently working on Open source projects and hackathons ⚡
+
+- 👨🏻‍💻 My expertise encompasses both manual and automated testing methodologies, complemented by a strong proficiency in a diverse array of testing tools and frameworks.
+- 🥅 Coding automation projects ⚡
+- 🔭 Deeply committed to achieving product excellence. ⚡
 
 <br />
 <br />
 
 ## Connect with me 🔗: 
 [<img align="left" alt="adityamangal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="adityamangal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="adityamangal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 <a href="https://dev.to/adityamangal1">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Aditya Mangal's DEV Community Profile" height="30" width="30">
@@ -54,11 +53,11 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 
 <!-- ![source](https://user-images.githubusercontent.com/68494604/94645884-950ac780-030a-11eb-9c8f-40d9740fc6ad.gif) -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&&theme=radical">  
+<img src="https://github-readme-stats.vercel.app/api?username=adityamangal1&&show_icons=true&&theme=radical"> 
+
   
 [facebook]: https://www.facebook.com/aditya.mangal2/
-[instagram]: https://www.instagram.com/adityamangal/
-[twitter]: https://twitter.com/AdityaM44382015/
+[twitter]: https://x.com/I_Aditya_
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=adityamangal1&theme=flat&margin-w=15">
@@ -92,13 +91,13 @@ src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160p
 </div>
 
 
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://i.stack.imgur.com/NSHyg.gif">
   
   <br>
   <strong>Happy Coding</strong> ❤️
 </p>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
